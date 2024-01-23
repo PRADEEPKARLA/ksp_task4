@@ -1,0 +1,26 @@
+body{ 
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.msg{
+    background-color: black; 
+    color: white;
+    font-family:cursive ;
+    border: 4px solid black;
+    
+}
+.virat{
+    color:brown ;
+    background-color:wheat;
+    font-family: cursive;
+}
+#yuvi{
+    color: red;
+    background-color: black;
+}
+.mahi{
+    border:2px solid black;
+}
+
